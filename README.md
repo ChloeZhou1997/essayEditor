@@ -101,4 +101,4 @@ The Vite dev server proxies `/api` requests to the Express backend.
 
 ## License
 
-MIT
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
